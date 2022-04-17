@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T01:46:53.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="iCpPiYXcDEXQnYnWRLD2" version="17.4.5" type="github"><diagram id="CalyAM5v-CE5dBQNKEqj" name="context">zZXfT+MwDMf/mj4itQkb3CN0/BToED3ddPeWtaa1SOuSpevGX49L03WlQgIJaXuq87XjxJ+4iSfDfH1lVJndUwLaE36y9uTMEyLw5Sl/GmXTKhP5qxVSg4kL6oUIX6Gb6dQKE1gOAi2RtlgOxZiKAmI70JQxVA/DnkgPVy1VCiMhipUeq3NMbNaqp+Kk168B06xbOZi6+nLVBbtKlplKqN6R5IUnQ0NkWytfh6AbeB2Xdt7lJ97txgwU9isTXue38+u5ePz3/wkJX6LpKlVHLstK6coV7DZrNx0BQ1WRQJPE9+R5naGFqFRx4635zFnLbK55FLDp0oGxsP50n8G2em4boBys2XCImyBPHDDXMUK6cd3zDzqo2Q77qdOUO/J0m7qnwoYD8w1IYgQpvOFE4WzvrIKDYyVHrP6Srgpl1AI1WuR/WfiPUNISLZn34Z4ZTg6O4fGI4XmVsvDHqPgZi/TwmMlg38wmI2YzWEUQ/y7HtPgmLhuzyvVZzF3ITBoayLf+nVqAfmiaE6ngkAVZS/lOwJnGtHFY+kCVKquxgHD7Dvk/g1oEkyHq4zFq+TOkedg/R+++nUddXrwB</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-17T08:00:11.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="k1_Z9JSU2GvD-53tYCQc" version="17.4.5" type="github">
+  <diagram id="CalyAM5v-CE5dBQNKEqj" name="context">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zWJWHW2RYZfioiqS6vga-1" value="clouddefence.ia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="370" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWJWHW2RYZfioiqS6vga-2" value="CI/CD Pipelines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="370" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWJWHW2RYZfioiqS6vga-3" value="Volunarabilities Repositories" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zWJWHW2RYZfioiqS6vga-4" value="Bug Trackings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="530" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKUiVaXYFGFUCNFY-EMa-2" value="DevSecOps" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/100-basic-for-user-interface/32/79-users-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKUiVaXYFGFUCNFY-EMa-4" value="Source Repositories" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKUiVaXYFGFUCNFY-EMa-5" value="Lib Repos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="369" y="331" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKUiVaXYFGFUCNFY-EMa-6" value="DevOps" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/100-basic-for-user-interface/32/79-users-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKUiVaXYFGFUCNFY-EMa-7" value="Sec Group" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/100-basic-for-user-interface/32/79-users-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
